@@ -1,3 +1,10 @@
+## 入れたもの
+```
+$ npm install --save react-router-dom use-react-router
+$ npm install --save-dev @types/react-router-dom
+$ npm install --save @material-ui/core
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
